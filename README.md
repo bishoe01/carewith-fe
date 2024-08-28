@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 알약 디스펜서 관리 앱 🏥💊
 
-## Getting Started
+## 프로젝트 목표
+치매 환자의 규칙적인 알약 복용을 돕는 보호자용 디스펜서 관리 앱
 
-First, run the development server:
+## 시스템 아키텍처
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d751404-bed9-4b2d-bb47-73865088edcc" width="500">
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 주요 기능
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### CareWith
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2d2beb1-677c-4362-9ad3-0bef2652cf2d" width="400">
+  <img src="https://github.com/user-attachments/assets/95ef906f-e21c-470f-9d75-8eb81d7b629d" width="400">
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 팀 멤버 소개
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd00eb90-0c20-4b26-88fd-26f233001aac" width="500">
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 정보 구조 (IA)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/89f979ce-e423-42ce-a346-79d3dda9ca6d" width="700">
+</p>
 
-## Learn More
+## 기능 / UI/UX
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a24f577-2dca-4c22-830c-231771e7d34b" width="300">
+  <img src="https://github.com/user-attachments/assets/00763533-2a3c-44c9-95e3-be2b43e4b100" width="300">
+  <img src="https://github.com/user-attachments/assets/d40959a3-65a2-4ce5-a0d6-22bf86b780c1" width="300">
+  <img src="https://github.com/user-attachments/assets/c3d60b14-268e-4a69-bf1f-570f00ff224c" width="300">
+  <img src="https://github.com/user-attachments/assets/6120021e-9938-4bd1-9427-7fc36ec7d5a4" width="300">
+</p>
 
-To learn more about Next.js, take a look at the following resources:
+## 수상 사진
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf5ef192-05ec-4a64-aed0-f53dedf414e2" width="300">
+  <img src="https://github.com/user-attachments/assets/202184e3-001e-4544-a2ff-97b44a806723" width="300">
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 프론트엔드 기술스택
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> 
+- <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled-Components" />
+- <img src="https://img.shields.io/badge/Zustand-6C6CE5?style=flat-square&logo=Zustand&logoColor=white" alt="Zustand" />
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
